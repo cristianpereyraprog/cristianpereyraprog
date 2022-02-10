@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Cristian 👋
 
 <!--
 **cristianpereyraprog/cristianpereyraprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
